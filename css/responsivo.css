@@ -1,0 +1,232 @@
+@media screen and (max-width:1200px){
+    .arrows{
+        display: none;
+    }
+    .row{
+        width: 960px;
+    }
+    .menup{
+        width:700px;
+    }
+    .conteiner{
+        width:960px;
+    }
+    .products{
+        width:960px;
+        margin: 0 auto;
+        height: 4210px;
+    }
+    
+  .produtose{
+    width: 641px;
+  }
+   .produtosd{
+    width:320px;
+   }
+   .card{
+    width:183px;
+    height: 325px;
+   }
+   .cardc{
+    width:213px;
+   }
+   .produtosd{
+    width:320px;
+   }
+   .cardd{
+    width:290px;
+   }
+   .titled {
+    width:310px;
+   }
+   .trendnow{
+    width: 640px;
+   }
+   .infoc{
+    width:213px;
+   }
+   .titlesone{
+    width:670px;
+   }
+   .titlesd{
+    width:310px;
+   }
+}
+@media screen and (max-width:1026px) {
+    .topo{
+        width:1025px;
+    }
+}
+@media screen and (max-width:990px){
+  
+    body{
+        width:990px;
+        overflow: none;
+        
+    }
+    .menup{
+        display: none;
+        height: 100%;
+
+    }
+    .menuhamburgue{
+        display: block;
+        color:white;
+        
+    }
+    .topo{
+        width:990px
+    }
+    .hero{
+        width:990px;
+    }
+    .row{
+        width:720px;
+        justify-content: space-between;
+        margin: 0 auto;
+    }
+    .conteiner{
+        width:800px;
+    }
+    .products{
+        width:990px;
+        height: 7733px;
+        display: block;
+        
+    }
+   .produtose{
+    width:800px;
+    margin:0 auto;
+   }
+    .card{
+        width:330px;
+        height:325px;
+        background-position: top;
+        background-size: cover;
+    }
+    
+    .cardc{
+        width:400px;
+      
+       height: 461px;
+    }
+    .infoc{
+        width:100%;
+    }
+    .produtosd{
+        width:800px;
+        margin: 0 auto;
+    }
+    .trendnow{
+        width: 800px;
+        margin: 0 auto;
+    }
+    .titlesone{
+        width:800px;
+    }
+    .trend{
+        width:100%;
+    }
+    .view{
+        width:19%;
+    }
+    .infoc{
+        width:94%;
+    }
+    
+}
+@media screen and (max-width:768px){
+    .topo{
+        background-color: rgb(72, 66, 66);
+    }
+    .hero{
+        width:100%;
+
+    }
+    .conteiner{
+        width:100%;
+        background-size: 100%;
+    }
+    .cardpai{
+        display: flex;
+        width:100%;
+        justify-content: space-around;
+        height: 100%;
+    }
+    .cardd{
+        width:400px;
+        height: 400px;
+    }
+    .products{
+        height: 100%;
+    }
+   
+}
+@media screen and (max-width:600px){
+
+    .topo{
+        background-color: rgb(208 27 86);
+        height: 150px;
+    }
+    .cardc{
+        width:100%;
+        height: 100%;
+    }
+    .card{
+        width:90%;
+        height: 800px;
+    }
+    .products{
+        height: 100%;
+    }
+    .row{
+        display: none;
+    }
+    .las{
+        font-size:90px;
+        display: block;
+        color:white;
+    }
+    .trendnow{
+        height:100%;
+    }
+    .infoc h5{
+        font-size:40px;
+    }
+    .titles h4{
+        font-size: 55px;
+    }
+    .view{
+        width: 50%;
+    }
+    .view a{
+        font-size:40px;
+    }
+    .produtosd{
+        height: 100%;
+    }
+    .produtose .view{
+        width:48%;
+    }
+    .recently h4{
+        font-size: 45px;
+    }
+    .titlesd{
+        width:100%;
+    }
+    .titlesd h4{
+        font-size:40px;
+    }
+    .datas li{
+        font-size:33px;
+    }
+}
+@media screen and (max-width:550px){
+    .paicoment{
+        display: none;
+    }
+    .cardd{
+        width:800px;
+        height:800px;
+    }
+}
